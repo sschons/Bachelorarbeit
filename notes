@@ -1,1 +1,1 @@
-Der Code zu preprocessing zeigt den Ablauf der Übersetzung der Fifa Daten und die Erstellung der Name-Matching Dateien. Allerdings wurden diese dann händisch überarbeitet und später wieder eingeladen. Diese händisch bearbeiteten Datensätze sind unter raw_data zu finden.
+Der Code zu preprocessing zeigt den Ablauf der Übersetzung der Fifa Daten und die Erstellung der Name-Matching Dateien. Allerdings wurden diese dann händisch überarbeitet und später wieder eingeladen. Diese händisch bearbeiteten Datensätze sind unter "Matching files" zu finden.
